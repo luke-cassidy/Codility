@@ -1,0 +1,26 @@
+# vscode project files
+**/.vscode
+**/*.code-workspace
+# Local History for Visual Studio Code
+**/.history/
+
+# eclipse project files
+**/.metadata
+**/.classpath
+**/bin/
+**/tmp/
+**/*.tmp
+**/*.bak
+**/*.swp
+**/*~.nib
+**/local.properties
+**/.settings/
+**/.loadpath
+**/.recommenders
+**/.project
+
+# maven build files
+**/target
+
+# python build files
+**/__pycache__
