@@ -21,6 +21,12 @@
 
 # maven build files
 **/target
+**/*.class
 
 # python build files
 **/__pycache__
+**/*.pyc
+
+# python vene folder
+venv
+
