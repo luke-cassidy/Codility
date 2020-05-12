@@ -17,4 +17,5 @@ This project contains my solutions to the Codility lessons/challenges.
 5. 11/05/2020
 - Added PermMissingElem lesson in Java with unit tests
 
-
+6. 12/05/2020
+- Added FrogRiverOne lesson in Python with unit tests
