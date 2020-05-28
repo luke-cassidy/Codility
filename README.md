@@ -22,3 +22,7 @@ This project contains my solutions to the Codility lessons/challenges.
 
 7. 12/05/2020
     - Added MaxCounters lesson in Java with unit tests
+
+8. 28/05/2020
+    - Added high complexity unit test to MaxCounters lesson.
+	- Solution still need a fix that will reduce time complexity.

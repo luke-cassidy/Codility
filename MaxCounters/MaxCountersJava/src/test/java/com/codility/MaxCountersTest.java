@@ -213,6 +213,14 @@ public class MaxCountersTest {
         Arrays.fill(exp, 2);
         act = solution.solution(N, A);
         assertEquals(Arrays.toString(exp), Arrays.toString(act));
+
+        N = 100000;
+        A = new int[N];
+        Arrays.fill(A, 100001);
+        exp = new int[N];
+        Arrays.fill(exp, 0);
+        act = solution.solution(N, A);
+        assertEquals(Arrays.toString(exp), Arrays.toString(act));
     }
 
 }
