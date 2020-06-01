@@ -26,3 +26,7 @@ This project contains my solutions to the Codility lessons/challenges.
 8. 28/05/2020
     - Added high complexity unit test to MaxCounters lesson.
 	- Solution still need a fix that will reduce time complexity.
+
+9. 01/06/2020
+	- Modified MaxCounters solution to include fix that reduced time complexity.
+	- Solution inspired by 'https://github.com/Mickey0521/Codility' solution on GitHub
