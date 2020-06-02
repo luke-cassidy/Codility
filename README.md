@@ -30,3 +30,7 @@ This project contains my solutions to the Codility lessons/challenges.
 9. 01/06/2020
 	- Modified MaxCounters solution to include fix that reduced time complexity.
 	- Solution inspired by 'https://github.com/Mickey0521/Codility' solution on GitHub
+
+9. 02/06/2020
+    - Added CountDiv lesson in Python with unit tests
+
