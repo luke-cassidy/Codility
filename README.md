@@ -34,3 +34,6 @@ This project contains my solutions to the Codility lessons/challenges.
 9. 02/06/2020
     - Added CountDiv lesson in Python with unit tests
 
+9. 09/06/2020
+    - Added GenomicRangeQuery lesson in Java with unit tests (solution with non optimal time complexity)
+
