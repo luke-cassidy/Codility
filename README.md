@@ -31,9 +31,12 @@ This project contains my solutions to the Codility lessons/challenges.
 	- Modified MaxCounters solution to include fix that reduced time complexity.
 	- Solution inspired by 'https://github.com/Mickey0521/Codility' solution on GitHub
 
-9. 02/06/2020
+10. 02/06/2020
     - Added CountDiv lesson in Python with unit tests
 
-9. 09/06/2020
+11. 09/06/2020
     - Added GenomicRangeQuery lesson in Java with unit tests (solution with non optimal time complexity)
 
+12. 30/06/2020
+    - Modified GenomicRangeQuery lesson to include fix that reduced time complexity.
+	- Solution inspired by 'https://github.com/Mickey0521/Codility' solution on GitHub
