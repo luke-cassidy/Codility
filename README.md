@@ -40,3 +40,8 @@ This project contains my solutions to the Codility lessons/challenges.
 12. 30/06/2020
     - Modified GenomicRangeQuery lesson to include fix that reduced time complexity.
 	- Solution inspired by 'https://github.com/Mickey0521/Codility' solution on GitHub
+
+13. 20/08/2020
+    - Added partial solution to the Codility Demo problem. 
+	- Does not 100% satisfy performance requirements
+
